@@ -1,3 +1,3 @@
-A simple classification project using the data : https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv
+A simple classification project using the data : https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction
 
-We're trying to use diffent algorithms to figure out the best one to predict if a person has a heart condition.
+We're trying to use different models to figure out the best one to predict the passenger's happiness .
